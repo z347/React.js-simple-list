@@ -1,7 +1,11 @@
 {
   "name": "simple-list",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "engines": {
+    "npm": "6.13.0",
+    "node": "10.15.3"
+  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "1.2.27",
     "@fortawesome/free-solid-svg-icons": "5.12.1",
