@@ -1,6 +1,13 @@
 # About this project
 
+This is something like to-do list on React.
 
+The main features that are present in this project:
+
+- add new task
+- delete some task
+- mark some task as done
+- counting of all active tasks
 
 ## Demo
 
